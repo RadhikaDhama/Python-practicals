@@ -6,7 +6,7 @@ To download the file for these questions copy, visit this link in your browser:
 http://www.du.ac.in/uploads/RevisedSyllabi1/Annexure-86.%20(Comp-Sc-GE).pdf 
 Questions:
 1.Execution of expressions involving arithmetic, relational, logical, and bitwise 
-operators in the shell window of Python IDLE.
+operators in the shell window of Python IDLE./n
 2. Write a Python function to produce the outputs such as:
 (a) 1
 21
